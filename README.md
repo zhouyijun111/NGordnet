@@ -4,5 +4,6 @@
 <ul>
   <li>HashMap: used to store the English Texts</li>
   <li>PriorityQueue to find the most popular words in a specified year</li>
-</ul><hr>
+</ul>
+<hr>
 <img src="sketch map.png" alt="Alt text" title="Optional title">
